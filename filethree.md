@@ -1,1 +1,1 @@
-Text for file three.
+Text for file three. Just this file is updated.
